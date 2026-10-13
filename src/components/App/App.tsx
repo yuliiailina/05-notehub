@@ -10,7 +10,7 @@ import SearchBox from "../SearchBox/SearchBox";
 import NoteList from "../NoteList/NoteList";
 import Pagination from "../Pagination/Pagination";
 import Modal from "../Modal/Modal";
-import NoteForm from "../NoteForm/Noteform";
+import NoteForm from "../NoteForm/NoteForm";
 
 export default function App() {
   const [page, setPage] = useState(1);
